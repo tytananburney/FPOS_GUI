@@ -1,5 +1,5 @@
 # FPOS_GUI
-Data collection GUI developed for the Space Systems Design Studio
+A data collection GUI developed in the Space Systems Design Studio for the project: Flux-Pinning for Orbiting Sample capture (FPOS). 
 
 The GUI interface was developed in MATLAB while scripts interacting with the remote Raspberry Pi microcontroller were developed in Python.
 
